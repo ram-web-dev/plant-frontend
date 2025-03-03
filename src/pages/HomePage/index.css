@@ -1,0 +1,7 @@
+.home-bg-container {
+  background-image: url("../../assets/home-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding-top: 16px;
+}

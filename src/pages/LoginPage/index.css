@@ -1,0 +1,6 @@
+.form-bg-container {
+  background-image: url("../../assets/login-bg.jpg");
+  background-size: cover;
+  height: 100vh;
+  padding-top: 16px;
+}

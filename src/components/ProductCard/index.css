@@ -1,0 +1,8 @@
+.product-item {
+  list-style-type: none;
+  margin: 16px;
+}
+
+.card-img {
+  height: 150px;
+}
