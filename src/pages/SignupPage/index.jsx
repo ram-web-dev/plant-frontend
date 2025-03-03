@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 
 import Header from "../../components/Header";
-import SignupForm from "../../components/SignUpForm";
+import SignupForm from "../../components/SignupForm";
 
 const SignupPage = () => {
   return (
